@@ -23,8 +23,8 @@ typedef unsigned int uint;
 // Configuration -----------
 //To adjust fullscreen set SCREEN_SIZE & FULLSCREEN DESKTOP to 1, else SCREEN_SIZE = 3
 #define SCREEN_SIZE 1
-#define SCREEN_WIDTH (770/2) + 30
-#define SCREEN_HEIGHT (1334/2) + 30
+#define SCREEN_WIDTH (770/2) + 200
+#define SCREEN_HEIGHT (1334/2) + 200
 #define WIN_BORDERLESS 1
 #define WIN_RESIZABLE 0
 #define REN_VSYNC 1
